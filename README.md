@@ -12,14 +12,13 @@ The project includes a **frontend** for the user interface and a **backend** for
 
 1. [Title](#title)
 2. [Description](#description)
-3. [Tabla de cotenidos](#tabla-de-cotenidos)
-4. [Project Structure](#project-structure)
+3. [Project Structure](#project-structure)
     - [Frontend](#frontend)
     - [Backend](#backend)
     - [Demo Video](#demo-video)
-5. [Technical Testing and Limitations](#technical-testing-and-limitations)
-6. [Achieved Functionalities](#achieved-functionalities)
-7. [Pending Functionalities](#pending-functionalities)
+4. [Technical Testing and Limitations](#technical-testing-and-limitations)
+5. [Achieved Functionalities](#achieved-functionalities)
+6. [Pending Functionalities](#pending-functionalities)
 
 # Project Structure
 
