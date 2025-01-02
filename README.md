@@ -8,7 +8,7 @@ This project was developed as part of a technical test for the **Cloud Junior De
 
 The project includes a **frontend** for the user interface and a **backend** for the business logic, implemented using modern technologies and best practices.  
 
-# Tabla de cotenidos
+# Table of contents
 
 1. [Title](#title)
 2. [Description](#description)
