@@ -10,16 +10,16 @@ The project includes a **frontend** for the user interface and a **backend** for
 
 # Tabla de cotenidos
 
-- [Title](#title)
-- [Description](#description)
-- [Tabla de cotenidos](#tabla-de-cotenidos)
-- [Project Structure](#project-structure)
+1. [Title](#title)
+2. [Description](#description)
+3. [Tabla de cotenidos](#tabla-de-cotenidos)
+4. [Project Structure](#project-structure)
     - [Frontend](#frontend)
     - [Backend](#backend)
     - [Demo Video](#demo-video)
-- [Technical Testing and Limitations](#technical-testing-and-limitations)
-  - [Achieved Functionalities](#achieved-functionalities)
-  - [Pending Functionalities](#pending-functionalities)
+5. [Technical Testing and Limitations](#technical-testing-and-limitations)
+6. [Achieved Functionalities](#achieved-functionalities)
+7. [Pending Functionalities](#pending-functionalities)
 
 # Project Structure
 
